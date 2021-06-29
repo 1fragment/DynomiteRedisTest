@@ -15,4 +15,11 @@ JUnit 5
 【用法】
 
 修改host、port变量为对应的同步源节点、同步目标节点值即可
+也可用于jedis、redis、junit5学习
 
+【效果截图】
+![result](https://github.com/1fragment/DynomiteRedisTest/blob/main/ScreenShots/result.png)
+
+***
+【学习交流】
+![在我的个人公众号等你](https://github.com/1fragment/DynomiteRedisTest/blob/main/ScreenShots/qrcode_wechat.jpg)

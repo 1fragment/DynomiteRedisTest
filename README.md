@@ -20,6 +20,3 @@ JUnit 5
 【效果截图】
 ![result](https://github.com/1fragment/DynomiteRedisTest/blob/main/ScreenShots/result.png)
 
-***
-【学习交流】
-![在我的个人公众号等你](https://github.com/1fragment/DynomiteRedisTest/blob/main/ScreenShots/qrcode_wechat.jpg)
